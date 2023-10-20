@@ -3,7 +3,7 @@
 ## Exercícios divididos individualmente em cada arquivo:
   ### 1. rgb.pl
   ### 2. guardians.pl
-  ### 3. cancelada
+  ### 3. cancelado
   ### 4. sudoku.pl
 
 ## Grupo:
